@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ACC008F09FC8F50296852B914D99D19AB5A81002",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ACC008F09FC8F50296852B914D99D19AB5A81002" : 0,
+    "1C3895D903580DA785EC3F63C6B0A7329E92A23E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82F162A5-504D-4821-94AA-E70C2F8151E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ACC008F09FC8F50296852B914D99D19AB5A81002" : "TheButtonYouveAllBeenWaitingFor\/",
+    "1C3895D903580DA785EC3F63C6B0A7329E92A23E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TheButtonYouveAllBeenWaitingFor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TheButtonYouveAllBeenWaitingFor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tjadams\/babystep.me.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C3895D903580DA785EC3F63C6B0A7329E92A23E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arkadyark\/TheButtonYouveAllBeenWaitingFor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACC008F09FC8F50296852B914D99D19AB5A81002"
+    }
+  ]
+}
