@@ -12,6 +12,7 @@
 		888B92BE1BEF56F200F089F6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 888B92B91BEF56F200F089F6 /* main.m */; };
 		888B92BF1BEF56F200F089F6 /* switchIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 888B92BA1BEF56F200F089F6 /* switchIcon.png */; };
 		888B92C21BEF5BA800F089F6 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 888B92C01BEF5BA800F089F6 /* MainMenu.xib */; };
+		88DFD4EB1BEF64B2000C6B57 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88DFD4EA1BEF64B2000C6B57 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		888B92BA1BEF56F200F089F6 /* switchIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switchIcon.png; sourceTree = "<group>"; };
 		888B92C11BEF5BA800F089F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		888B92C31BEF5C5300F089F6 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		88DFD4EA1BEF64B2000C6B57 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		8800B77E1BEF4C63006408A8 /* TheButtonYouveAllBeenWaitingFor */ = {
 			isa = PBXGroup;
 			children = (
+				88DFD4EA1BEF64B2000C6B57 /* Images.xcassets */,
 				888B92C31BEF5C5300F089F6 /* AppDelegate.h */,
 				888B92C01BEF5BA800F089F6 /* MainMenu.xib */,
 				888B92B61BEF56F200F089F6 /* AppDelegate.m */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				888B92BF1BEF56F200F089F6 /* switchIcon.png in Resources */,
+				88DFD4EB1BEF64B2000C6B57 /* Images.xcassets in Resources */,
 				888B92BC1BEF56F200F089F6 /* Base.lproj in Resources */,
 				888B92C21BEF5BA800F089F6 /* MainMenu.xib in Resources */,
 			);
